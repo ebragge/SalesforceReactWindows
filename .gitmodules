@@ -1,0 +1,9 @@
+[submodule "react-native-windows"]
+	path = react-native-windows
+	url = https://github.com/ReactWindows/react-native-windows
+[submodule "SalesforceMobileSDK-Windows"]
+	path = SalesforceMobileSDK-Windows
+	url = https://github.com/forcedotcom/SalesforceMobileSDK-Windows/
+[submodule "css-layout"]
+	path = css-layout
+	url = https://github.com/facebook/css-layout
